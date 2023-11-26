@@ -1,6 +1,6 @@
 ### **Porque SQL ?**
 
-SQL (**Structured Query Languag**e) é uma linguagem de programação utilizada para gerenciar e manipular dados em bancos de dados relacionais. É uma linguagem padrão para bancos de dados relacionais e é usada para criar, modificar e consultar dados em tabelas.
+SQL (**Structured Query Language**) é uma linguagem de programação utilizada para gerenciar e manipular dados em bancos de dados relacionais. É uma linguagem padrão para bancos de dados relacionais e é usada para criar, modificar e consultar dados em tabelas.
 
 Com **SQL**, é possível criar tabelas, inserir dados, atualizar registros, excluir registros e consultar dados em um banco de dados. A linguagem é usada em uma ampla variedade de aplicativos, desde sistemas de gerenciamento de conteúdo até aplicativos de negócios e finanças.
 
