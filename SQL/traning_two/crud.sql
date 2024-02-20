@@ -93,3 +93,4 @@ SELECT * FROM public.COMPANY
 -- criando index
 CREATE UNIQUE INDEX attende_index on attende(FIRST_NAME)
 
+
